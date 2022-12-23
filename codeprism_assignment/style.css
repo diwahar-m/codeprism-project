@@ -1,0 +1,75 @@
+h1{
+    font-size:20px; 
+    font-weight:bold;
+}
+ul{
+    list-style-type: none;
+}
+.navbar{
+    border-radius: 10px;
+}
+body{
+    background-color: #FFADBC;
+    font-family: 'Ubuntu', sans-serif;
+}
+.user-input{
+    
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:50px;
+}
+input{
+    border-radius: 8px; 
+    width:240px;
+    height:35px;
+}
+.head{
+    font-family: 'Roboto', sans-serif;
+    font-size:24px;
+    margin-top: 50px auto 10px auto ; 
+    line-height: 1.5;
+}
+h3{
+    font-weight:bold; 
+
+}
+ul{
+    border-radius:8px; 
+    border-color:#000;
+}
+.btn{
+    margin-left:2px;
+}
+li{
+    border-radius:10px; 
+    padding:3px; 
+    width:60%;
+    background-color: aquamarine;
+    margin:10px 3px 10px 3px;
+}
+.todo-container{
+    background-color:#fff; 
+    padding:5px; 
+    border-radius:10px;
+}
+.completed-container{
+    background-color: #fff; 
+    padding:5px;
+    border-radius:10px;
+}
+.todo-1{
+    height:100px; 
+    width:100px; 
+    margin-top:20px; 
+    margin-bottom:50px;
+}
+.image1{
+    height:20px; 
+    width:20px; 
+    margin-right:2px;
+}
+h4{
+    font-weight:900;
+    font-size:20px;
+    color:#32CD32;
+}
